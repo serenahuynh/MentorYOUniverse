@@ -5,12 +5,12 @@ You’re a star in this galaxy. You, your peers, and your potential mentors/ment
 
 Spectra 4.0 Hackathon Submission [VENUS]
 
-Name: Mentor YOUniverse
-Focuses on underrepresented genders community to find mentors.
-Show vague location
-Categories: academic, profession/career, mental, life decisions
-Galaxy = Main page
-Orbit = Matches and Chat functions
+Name: Mentor YOUniverse <br />
+Focuses on underrepresented genders community to find mentors. <br />
+Show vague location <br />
+Categories: academic, profession/career, mental, life decisions <br />
+Galaxy = Main page <br />
+Orbit = Matches and Chat functions <br />
 
 
 Collaborated with Selina Huynh
